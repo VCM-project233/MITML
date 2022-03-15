@@ -3,7 +3,7 @@
 ### Usage
 - Usage of this code is free for research purposes only. 
 - This project is based on DDAG[1] ([paper](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123620222.pdf) and [official code](https://github.com/mangye16/DDAG)).
-- Download and prepare data [VCM-HIT](https://github.com/VCMHIT/VCM-HIT-data).
+- Download and prepare data [VCM-HITSZ](https://github.com/VCM-project233/VCM-HITSZ-data).
 - To begin testing.(See the code for more details).  
 		```
 		python test.py
