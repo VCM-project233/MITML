@@ -10,7 +10,13 @@
 		```
  - Please cite our paper for usage.
  ```
- Waiting for bib information.
+ @inproceedings{li2018harmonious,
+	title={Learning modal-invariant and temporal-memory for video-based visible-infrared person re-identification},
+	author={Li, Wei and Zhu, Xiatian and Gong, Shaogang},
+	booktitle={CVPR},
+	pages={2285--2294},
+	year={2018}
+}
  ```
 
 - Reference
