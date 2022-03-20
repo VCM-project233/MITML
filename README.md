@@ -10,7 +10,7 @@
 		```
  - Please cite our paper for usage.
  ```
- @inproceedings{li2018harmonious,
+ @inproceedings{lin2022learning,
 	title={Learning modal-invariant and temporal-memory for video-based visible-infrared person re-identification},
 	author={Lin, Xinyu and Li, Jinxing and Ma, Zeyu and Li, Huafeng and Li, Shuang and Xu, Kaixiong and Lu, Guangming and Zhang, David},
 	booktitle={CVPR},
