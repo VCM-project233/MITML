@@ -12,10 +12,9 @@
  ```
  @inproceedings{li2018harmonious,
 	title={Learning modal-invariant and temporal-memory for video-based visible-infrared person re-identification},
-	author={Li, Wei and Zhu, Xiatian and Gong, Shaogang},
+	author={Lin, Xinyu and Li, Jinxing and Ma, Zeyu and Li, Huafeng and Li, Shuang and Xu, Kaixiong and Lu, Guangming and Zhang, David},
 	booktitle={CVPR},
-	pages={2285--2294},
-	year={2018}
+	year={2022}
 }
  ```
 
