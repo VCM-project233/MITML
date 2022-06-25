@@ -4,6 +4,7 @@
 - Usage of this code is free for research purposes only. 
 - This project is based on DDAG[1] ([paper](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123620222.pdf) and [official code](https://github.com/mangye16/DDAG)).
 - Download and prepare data [VCM-HITSZ](https://github.com/VCM-project233/VCM-HITSZ-data).
+- Download [weights](https://github.com/VCM-project233/VCM-HITSZ-data) of MITML.
 - To begin testing.(See the code for more details).  
 		```
 		python test.py
