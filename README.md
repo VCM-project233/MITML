@@ -1,4 +1,5 @@
 ## Learning Modal-Invariant and Temporal-Memory for Video-based Visible-Infrared Person Re-Identification
+This is the official implementation of our [paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Lin_Learning_Modal-Invariant_and_Temporal-Memory_for_Video-Based_Visible-Infrared_Person_Re-Identification_CVPR_2022_paper.pdf) 'Learning Modal-Invariant and Temporal-Memory for Video-based Visible-Infrared Person Re-Identification'.
 
 ### Usage
 - Usage of this code is free for research purposes only. 
