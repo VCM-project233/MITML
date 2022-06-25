@@ -12,11 +12,12 @@ This is the official implementation of our [paper](https://openaccess.thecvf.com
 		```
  - Please cite our paper for usage.
  ```
- @inproceedings{lin2022learning,
-	title={Learning modal-invariant and temporal-memory for video-based visible-infrared person re-identification},
-	author={Lin, Xinyu and Li, Jinxing and Ma, Zeyu and Li, Huafeng and Li, Shuang and Xu, Kaixiong and Lu, Guangming and Zhang, David},
-	booktitle={CVPR},
-	year={2022}
+@inproceedings{lin2022learning,
+  title={Learning Modal-Invariant and Temporal-Memory for Video-Based Visible-Infrared Person Re-Identification},
+  author={Lin, Xinyu and Li, Jinxing and Ma, Zeyu and Li, Huafeng and Li, Shuang and Xu, Kaixiong and Lu, Guangming and Zhang, David},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={20973--20982},
+  year={2022}
 }
  ```
 
